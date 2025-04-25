@@ -6,6 +6,8 @@
 
 [Insights and Findings](#insights-and-findings)
 
+[Conclusion](#conclusion)
+
 ### Project Overview
 ---
 This dataset Ecommerce Customer Behavior comprises of customers essential which focus on understanding the customers behavior, performance and customer's satisfaction across different  purchase categories, revenue trend over the the month, payment methods, ads engagement,shipping preferences, purchase channels. 
@@ -31,5 +33,9 @@ The dataset was sourced from Kaggle a platform for open and real time datasets [
 - Customer that used tablets for their purchase are more satisfied
 - Mixed Purchase channel shows increase in revenue.
 
+### Conclusion
+---
+The analysis of this ecommerce dataset reveals insights into customer purchasing behavior, It highlights main revenue drivers. 
+These insights can help in decision-making to improve customer satisfaction and boost profitability. 
 
 
