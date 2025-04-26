@@ -28,7 +28,7 @@ The dataset was sourced from Kaggle a platform for open and real time datasets [
 
 - Visualization: Built an interactive dashboard using Power BI to show attrition trends and patterns across different categories.
 
-- Github: For portifolio building.
+- Github: For portfolio building.
 
 ### Insights and Findings
 ---
