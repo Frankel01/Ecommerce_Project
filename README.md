@@ -14,7 +14,7 @@
 
 ### Project Overview
 ---
-This dataset Ecommerce Customer Behavior comprises of customers essential which focus on understanding the customers behavior, performance and customer's satisfaction across different  purchase categories, revenue trend over the the month, payment methods, ads engagement,shipping preferences, purchase channels. 
+This dataset Ecommerce Customer Behavior comprises of customers essentials which focus on understanding the customers behavior, performance and customer's satisfaction across different  purchase categories, revenue trend over the the month, payment methods, ads engagement,shipping preferences, purchase channels. 
 With the aim of uncovering patterns and analyzing these dataset for easy understanding and visualization.
 
 ### Data Source
