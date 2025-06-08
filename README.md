@@ -1,6 +1,6 @@
 # Ecommerce_Project
 
-[Project Overview](#prject-overview)
+[Project Overview](#project-overview)
 
 [Method and Tools](#method-and-tools)
 
